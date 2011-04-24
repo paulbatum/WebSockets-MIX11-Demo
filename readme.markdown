@@ -1,6 +1,6 @@
 This is the code I wrote as part of my [MIX 11 talk](http://channel9.msdn.com/events/MIX/MIX11/HTM10) on WebSockets.
 
-I don’t have a license to redistribute the two binaries that I reference:
+I don't have a license to redistribute the two binaries that I reference:
 
     Microsoft.ServiceModel.Tcp.dll
     Microsoft.ServiceModel.WebSockets.dll
