@@ -12,7 +12,7 @@ Once the install is complete, you'll have the prototype bits at:
 **C:\Program Files (x86)\\Microsoft SDKs\\WCF WebSockets** or 
 **C:\Program Files\\Microsoft SDKs\\WCF WebSockets** if you are on a 32-bit OS.
 
-If you are going to use the Silverlight plugin to simulate WebSockets, you'll need to drop the **clientaccesspolicy.xml** file (found in the bin folder) into your **c:\inetpub\wwwroot** folder.
+If you are going to use the Silverlight plugin to simulate WebSockets, you'll need to drop the **clientaccesspolicy.xml** file (found in the bin folder) into your **c:\\inetpub\\wwwroot** folder.
 
 In my demo I used a [private build](http://www.ducksong.com/misc/websockets-builds/ws-06/4.0.rc1.02/) of Firefox with support for 06 WebSockets.
 
