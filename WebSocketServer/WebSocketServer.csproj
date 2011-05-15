@@ -35,10 +35,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.ServiceModel.Tcp">
-      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Microsoft SDKs\WCF WebSockets\11.03.10\bin\Microsoft.ServiceModel.Tcp.dll</HintPath>
+      <HintPath>..\..\..\Program Files (x86)\Microsoft SDKs\WCF WebSockets\11.05.10\bin\Microsoft.ServiceModel.Tcp.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.ServiceModel.WebSockets">
-      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Microsoft SDKs\WCF WebSockets\11.03.10\bin\Microsoft.ServiceModel.WebSockets.dll</HintPath>
+      <HintPath>..\..\..\Program Files (x86)\Microsoft SDKs\WCF WebSockets\11.05.10\bin\Microsoft.ServiceModel.WebSockets.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
